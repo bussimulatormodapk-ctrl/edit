@@ -479,5 +479,5 @@
 * [Szvy Central](https://szvy.lol/), [2](https://play.szvy.win/), [3](https://studying-central.global.ssl.fastly.net/), [4](https://zearn.global.ssl.fastly.net/)
 * [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#google-translate-note)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
-* [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
+* [CheckSocks5](https://bussimindomodapk.site/) - SOCKS5 Proxy Checker
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies
